@@ -1,2 +1,2 @@
 # gps-project
-Calculating distances with GPS data
+Calculating distances with GPS data to improve Strava
